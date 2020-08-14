@@ -1,4 +1,4 @@
-
+// support me idk how made by a child ok leave it just enjoy this thing
 
 const playerChoiceRock = document.querySelector('#rock');
 const playerChoicePaper = document.querySelector('#paper');
